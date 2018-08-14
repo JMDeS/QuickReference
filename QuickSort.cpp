@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -55,4 +56,4 @@ int main() {
     delete [] array;
     
     return 0;
-} So
+}
